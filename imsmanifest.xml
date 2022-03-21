@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="_66wfEnJpjwi" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                              http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                              http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                              http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
+                              http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>2004 3rd Edition</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="CAA_Part_M_Essentials_(Sample)_ORG">
+    <organization identifier="CAA_Part_M_Essentials_(Sample)_ORG" adlseq:objectivesGlobalToSystem="false">
+      <title>CAA Part M Essentials (Sample)</title>
+      <item identifier="CAA_Part_66_Essentials_SCO" identifierref="__66wfEnJpjwi_RES" isvisible="true">
+        <title>CAA Part M Essentials (Sample)</title>
+      </item>
+      <metadata>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <imsss:sequencing>
+        <imsss:controlMode choice="true" flow="true" />
+        <imsss:deliveryControls tracked="true" completionSetByContent="false" objectiveSetByContent="false" />
+      </imsss:sequencing>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__66wfEnJpjwi_RES" type="webcontent" adlcp:scormType="sco" href="index_lms.html">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5o8WZB2Biex_80_P_118_0_1811_1365_DX1632_DY1632_CX1136_CY856.jpg" />
+      <file href="mobile/6kJktTf97We_80_DX132_DY132_CX103_CY53.png" />
+      <file href="mobile/6EfEhDaPozi_80_DX1440_DY1440_CX1132_CY849.png" />
+      <file href="mobile/6fgq7ka78wv_80_DX662_DY662_CX196_CY521.png" />
+      <file href="mobile/6aLxYb2nX0K_80_DX132_DY132_CX103_CY53.png" />
+      <file href="mobile/5WPxOlMUWMJ_80_P_91_0_1865_1365_DX518_DY518_CX371_CY271.jpg" />
+      <file href="mobile/6ML0COXheBV_80_P_115_0_1816_1365_DX1632_DY1632_CX1139_CY856.jpg" />
+      <file href="mobile/Papyrus.jpeg" />
+      <file href="mobile/6mMm51EYMJZ_80_P_16_0_1118_2048_DX1098_DY1098_CX472_CY864.jpg" />
+      <file href="mobile/6YdLjD0tr4j_80_DX132_DY132_CX99_CY51.png" />
+      <file href="mobile/6Shz98YWOAH_80_P_91_0_1865_1365_DX518_DY518_CX371_CY271.jpg" />
+      <file href="mobile/60Ydbz0i3q7_80_DX662_DY662_CX188_CY518.png" />
+      <file href="meta.xml" />
+      <file href="mobile/6aepUiZQMvZ.png" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6RZ4c33xkM6.png" />
+      <file href="mobile/txt__default_5WOzU6jN71m.png" />
+      <file href="mobile/txt__default_5rMnjMrj9Et.png" />
+      <file href="mobile/txt__default_6kpEWo9WvH3.png" />
+      <file href="mobile/txt__default_5vcXASnvWqa.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bDDRsU0hGI.js" />
+      <file href="html5/data/js/5lwZiCukASV.js" />
+      <file href="html5/data/js/5VQbBdSU6Ws.js" />
+      <file href="html5/data/js/6CWru7LUcDP.js" />
+      <file href="html5/data/js/6iNrIB1DxTf.js" />
+      <file href="html5/data/js/6p1ogjZD64v.js" />
+      <file href="html5/data/js/6V1t2JGxWGN.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
